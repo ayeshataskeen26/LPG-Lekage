@@ -1,0 +1,6 @@
+{
+  "name": "LPG Guard #87 · Smart LPG Leak Monitor",
+  "description": "Interactive IoT simulator, engineering architecture, BOM calculator, and pitch asset studio for Project #87 – Smart Monitoring of LPG Leakage with Local Alarm and Remote Notification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
